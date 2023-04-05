@@ -1,0 +1,11 @@
+release/main.o
+release/mainwindow.o
+release/getoridata.o
+release/tobstring.o
+release/tondb.o
+release/heart_knn.o
+release/qrc_resource.o
+release/qrc_icon.o
+release/qrc_resultpic.o
+release/qrc_addimage.o
+release/moc_mainwindow.o

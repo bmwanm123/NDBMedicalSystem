@@ -1,0 +1,11 @@
+release/main.o
+release/mainwindow.o
+release/getoridata.o
+release/tobstring.o
+release/tondb.o
+release/ndbvalues.o
+release/progress.o
+release/qrc_resource.o
+release/qrc_icon.o
+release/moc_mainwindow.o
+release/moc_progress.o

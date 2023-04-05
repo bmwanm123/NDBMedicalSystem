@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file alias="rxa_result">image/1.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>image/2.png</file>
+    </qresource>
+</RCC>

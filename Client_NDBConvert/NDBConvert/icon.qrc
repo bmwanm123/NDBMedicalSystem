@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/Convert.ico</file>
+        <file>img/add.png</file>
+        <file>img/close.png</file>
+        <file>img/substract.png</file>
+        <file>img/square.png</file>
+        <file>img/change.png</file>
+        <file>img/set.png</file>
+        <file>img/change_data.png</file>
+        <file>img/input_hover.png</file>
+        <file>img/input_normal.png</file>
+        <file>img/db_hover.png</file>
+        <file>img/db_normal.png</file>
+        <file>img/show_hover.png</file>
+        <file>img/show_normal.png</file>
+        <file>img/empty.png</file>
+        <file>image/4.png</file>
+        <file>image/4i.ico</file>
+    </qresource>
+</RCC>

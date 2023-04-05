@@ -1,0 +1,11 @@
+debug/main.o
+debug/mainwindow.o
+debug/getoridata.o
+debug/tobstring.o
+debug/tondb.o
+debug/ndbvalues.o
+debug/progress.o
+debug/qrc_resource.o
+debug/qrc_icon.o
+debug/moc_mainwindow.o
+debug/moc_progress.o

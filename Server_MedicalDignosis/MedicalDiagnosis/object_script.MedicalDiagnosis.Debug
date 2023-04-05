@@ -1,0 +1,11 @@
+debug/main.o
+debug/mainwindow.o
+debug/getoridata.o
+debug/tobstring.o
+debug/tondb.o
+debug/heart_knn.o
+debug/qrc_resource.o
+debug/qrc_icon.o
+debug/qrc_resultpic.o
+debug/qrc_addimage.o
+debug/moc_mainwindow.o
