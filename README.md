@@ -1,0 +1,2 @@
+# NDBMedicalSystem
+基于负数据库的隐私保护在线医疗诊断系统
